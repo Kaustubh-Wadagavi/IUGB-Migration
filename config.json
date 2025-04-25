@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "user": "os_tester",
+  "password": "secrete",
+  "database": "washu",
+  "port": 3306,
+  "fieldDetailsCsvPath": "/home/krishagni/Desktop/iugb-data-migration/field_details.csv"
+}
