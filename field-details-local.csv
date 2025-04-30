@@ -1,0 +1,6 @@
+"Legacy Form Id","Legacy Field Name","Legacy Table Name","Legacy Column Name","Target Form Id","Target Field Name","Target Table Name","Target Column Name","Merge If different","Is Multi-Select"
+376,"Non-Conformance Detail (specimen)","DE_E_11056","DE_A_15",226,"Non-Conformance Details","DE_E_11051","DE_A_11","Yes","No"
+376,"Non-Conformance Reason (specimen)","DE_E_11056","DE_A_16",226,"Non-Conformances","DE_E_11055","VALUE","Yes","Yes"
+376,"Processing SOP Version","DE_E_11056","DE_A_23",226,"SOP","DE_E_11052","VALUE","No","Yes"
+376,"Storage Container","DE_E_11056","DE_A_37",226,"Storage Tube","DE_E_11051","DE_A_4","No","No"
+376,"Technician","DE_E_11056","DE_A_39",226,"Request ID","DE_E_11051","DE_A_5","No","No"
